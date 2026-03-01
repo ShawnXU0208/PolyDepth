@@ -1,5 +1,7 @@
 # PolyDepth
 
+![Interface](screenshots/cli-interface.png)
+
 A real-time analytics and research bot for Polymarket short-term crypto **Up/Down** markets.
 
 PolyDepth connects to:
